@@ -1,2 +1,1 @@
 # has-a
-has-a
