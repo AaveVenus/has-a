@@ -9,5 +9,6 @@ public class driver {
 		bmwmobil.author.display();
 		bmwmobil.keluar();
 		bmwmotor.metu();
+		//has-a
 	}
 }
